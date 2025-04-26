@@ -1,5 +1,6 @@
 {
 	"dependencies": {
+		"lint": "^0.8.19",
 		"use-debounce": "^10.0.4"
 	}
 }
